@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.mani.mani98",
+    "sha256_cert_fingerprints":
+    ["EE:06:55:F5:6E:B0:1A:3D:0D:F7:14:75:64:CB:4E:55:39:73:F8:C9:C6:EA:17:3E:EA:7C:39:1A:F9:DA:52:1A"]
+  }
+}]
